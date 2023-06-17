@@ -17,7 +17,7 @@ Specification:
     Wifi/BT : 
 		Intel
     Ethernet : 
-		Nope
+		Lenovo ThinkPad USB 3.0 Adapter
     Audio : 
 		Realtek + HDMI Audio
     Boot Mode : 
@@ -35,7 +35,7 @@ Whats don't work?
 
 Not tested
 
-  QE/CI Graphics of Vega8 + DRM
+  	QE/CI Graphics of Vega8 + DRM
 	CPU Power Management
 	Shutdown and Restart
 	All USB Ports
