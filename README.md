@@ -1,6 +1,5 @@
 # hackintosh-Huawei-D14-2019-AMD
-# hackintosh-B550-5500-5700XT
-OpenCore EFI for B550 Chipset Motherboard with AMD Ryzen 5 5600G Processor + Radeon RX 5700 XT Graphics Card.
+OpenCore EFI for Huawei D14 2019 with AMD Ryzen 5 2500U Processor and integrated Radeon Vega 8 Graphics Card.
 Specification:
 
     Model : 
