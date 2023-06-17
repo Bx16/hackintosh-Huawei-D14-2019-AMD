@@ -1,0 +1,1 @@
+# hackintosh-Huawei-D14-2019-AMD
