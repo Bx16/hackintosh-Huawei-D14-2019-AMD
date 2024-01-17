@@ -11,36 +11,39 @@ Specification:
     RAM : 
 		8GB
     Storage : 
-		Hynix 256GB M.2 SATA
+		Lexar NM620 NVMe 1TB
     iGPU : 
-		AMD Radeon Vega8 
+		AMD Radeon Vega 8 iGPU
     Wifi/BT : 
-		Intel
+		Intel 8265 WIFI + BT
     Ethernet : 
-		Lenovo ThinkPad USB 3.0 Adapter
+		None
     Audio : 
 		Realtek + HDMI Audio
     Boot Mode : 
 		UEFI (CSM disabled)
     Bootloader : 
-		OpenCore 0.9.3
-    OS : 
+		OpenCore 0.9.7
+    OS : macOS Ventura 
 		
 
 Whats Work?
-    
+
+  	QE/CI Graphics of Vega8 + DRM
+
+	Wifi/BT
+
+	All USB Ports
+
+	Shutdown and Restart
+
 
 Whats don't work?
 	
 
 Not tested
 
-  	QE/CI Graphics of Vega8 + DRM
 	CPU Power Management
-	Shutdown and Restart
-	All USB Ports
-	Ethernet
-	Wifi
 	HDMI
 	TRIM Support for SSD
 	
