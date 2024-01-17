@@ -28,9 +28,13 @@ Specification:
 		
 
 Whats Work?
+
   	QE/CI Graphics of Vega8 + DRM
+
 	Wifi/BT
+
 	All USB Ports
+
 	Shutdown and Restart
 
 
