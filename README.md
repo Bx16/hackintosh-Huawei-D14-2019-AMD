@@ -44,7 +44,6 @@ Whats don't work?
 Not tested
 
 	CPU Power Management
-	Ethernet
 	HDMI
 	TRIM Support for SSD
 	
